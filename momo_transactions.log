@@ -1,0 +1,8 @@
+2026-06-16 21:14:07,295 - INFO - System shutdown
+2026-06-16 21:14:34,727 - INFO - Deposit successful: +10000 VND. Current Balance: 10000
+2026-06-16 21:14:38,420 - INFO - Balance checked. Current Balance: 10000
+2026-06-16 21:14:52,150 - INFO - Deposit successful: +100000000000 VND. Current Balance: 100000010000
+2026-06-16 21:15:08,352 - WARNING - High value transaction detected: 12000000 VND to 0869730937
+2026-06-16 21:15:08,353 - INFO - Transfer successful: -12000000 VND to 0869730937. Current Balance: 99988010000
+2026-06-16 21:15:11,747 - INFO - Balance checked. Current Balance: 99988010000
+2026-06-16 21:15:13,912 - INFO - System shutdown
